@@ -1,0 +1,16 @@
+Name: Apurva Gandhi
+Date: 03/01/2019
+Class: CSCI132 - 01
+Assignment 4
+
+
+Discussion Log: 
+I mostly worked with Margaret on equal product and linked list implementation as queue.cc. Furthermore, I talked with Kelly about the algorithm for evaluate function. We discussed few ways to get to the answer. Finally, I discussed with Christian about the copy constructor and how to change functions from stack class to the function we can use in queue class for linked list. I have worked with Margaret on many of the concepts and we tried to figure out various challenging codes through visiting professor's office hours. I have not discussed about this project with anyone else other than people mentioned above. 
+
+Estimated Hours Spent:
+02/23/2019- 5:00 pm to 7:00 pm at Okane B-32 lab
+02/23/2019- 8:00 pm to 1:00 am at Okane B-32 lab
+02/28/2019- 4:30 pm to 10:30 pm at Swords 219
+03/01/2019- 10:00am to 12:30 pm at Swords 219
+
+
